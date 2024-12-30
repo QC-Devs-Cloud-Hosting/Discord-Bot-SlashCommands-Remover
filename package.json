@@ -1,0 +1,22 @@
+{
+  "name": "arhsr2",
+  "version": "1.0",
+  "main": "index.js",
+  "Author": "AZERTY#9999",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^2.4.0",
+    "chalk": "^5.4.1",
+    "discord-api-types": "^0.37.114",
+    "discord.js": "^14.7.1",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.4",
+    "lolcatjs": "^2.4.1",
+    "node-fetch": "^2.6.6"
+  },
+  "author": "AZERTY#9999",
+  "keywords": [],
+  "scripts": {
+    "start": "node index.js"
+  }
+}
